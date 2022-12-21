@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+
+}
+.container{
+    margin-top: 250px;
+    text-align: center;
+}
+.input{
+    font-size: 18px;
+    width: 300px;
+    color: black;
+}
+.btn{
+    font-size: 20px;
+}
